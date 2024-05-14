@@ -1,0 +1,8 @@
+fastapi
+matplotlib
+minio
+numpy
+pydantic
+Requests
+scipy
+opencv-python-headless
